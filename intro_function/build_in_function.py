@@ -1,0 +1,6 @@
+# highest = max(31,23,39,89,99,29,41)
+highest = max([31,23,39,89,99,29,41])
+smallest =min([31,23,39,89,99,29,41])
+total =sum([31,23,39,89,99,29,41])
+count = len([41,23])
+print(highest,smallest,count,total)
